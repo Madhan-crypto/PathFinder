@@ -1,0 +1,7 @@
+{
+  "name": "PathFinder AI: Career Psychometric Matcher",
+  "description": "An intelligent career guidance platform for youth that uses AI-driven psychometric profiling and real-time Google Search grounding to find authentic job opportunities and career paths.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
